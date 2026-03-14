@@ -1,16 +1,18 @@
-## Hi there 👋
+💫 About Me:
+🔭 I’m currently working as FullStack Developer
+🌱 I’m currently enhancing my skill
 
-<!--
-**Aano2007/Aano2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Socials:
+Instagram [LinkedIn](https://linkedin.com/in/Aayan Maji) email
 
-Here are some ideas to get you started:
+💻 Tech Stack:
+C CSS3 JavaScript Java HTML5 MySQL Figma Canva Adobe Adobe Lightroom Git GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 GitHub Stats:
+
+
+
+
+
+
+✍️ Random Dev Quote
